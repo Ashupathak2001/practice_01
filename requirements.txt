@@ -1,0 +1,7 @@
+streamlit 
+graphql-core
+requests
+plotly
+pytz
+pandas
+plyer
